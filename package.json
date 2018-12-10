@@ -1,0 +1,27 @@
+{
+  "name": "mn_aligate",
+  "version": "1.0.0",
+  "description": "The way to post Ali-cloud API gateway",
+  "main": "Aligate.js",
+  "dependencies": {
+    "aliyun-api-gateway": "^1.1.5",
+    "co": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menghuiqiang999/mn_aligate.git"
+  },
+  "keywords": [
+    "mn_aligate"
+  ],
+  "author": "moonlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menghuiqiang999/mn_aligate/issues"
+  },
+  "homepage": "https://github.com/menghuiqiang999/mn_aligate#readme"
+}
